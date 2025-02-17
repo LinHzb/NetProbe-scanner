@@ -1,0 +1,6 @@
+Port 82 is open
+Port 80 is open
+Port 84 is open
+Port 85 is open
+Port 83 is open
+Port 81 is open
